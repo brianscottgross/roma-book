@@ -1,0 +1,1140 @@
+{
+"RN-001": [],
+"RN-002": [
+{
+"name": "Mome Healthy Bakery",
+"reviews": 215,
+"cat": "Coffee shop"
+}
+],
+"RN-003": [
+{
+"name": "HARLE",
+"reviews": 62,
+"cat": "Chinese restaurant"
+}
+],
+"RN-004": [],
+"RN-005": [],
+"RN-006": [],
+"RN-007": [
+{
+"name": "Zunzún, Jungla Insular",
+"reviews": 907,
+"cat": "Cuban restaurant"
+},
+{
+"name": "Circulo Cubano de México Ac",
+"reviews": 152,
+"cat": "Non-profit organisation"
+},
+{
+"name": "Zunzún, Jardín Insular",
+"reviews": 37,
+"cat": "Events Venue"
+}
+],
+"RN-008": [],
+"RN-009": [],
+"RN-267": [],
+"RN-010": [],
+"RN-252": [
+{
+"name": "Sitio de Memoria Circular de Morelia",
+"reviews": 39,
+"cat": "Space of remembrance"
+}
+],
+"RN-011": [
+{
+"name": "SIETEOCHO Dance Center",
+"reviews": 56,
+"cat": "Dance school"
+}
+],
+"RN-012": [],
+"RN-013": [],
+"RN-014": [],
+"RN-015": [],
+"RN-016": [],
+"RN-017": [],
+"RN-018": [],
+"RN-019": [],
+"RN-020": [
+{
+"name": "TESTAL - Roma",
+"reviews": 965,
+"cat": "Mexican restaurant"
+}
+],
+"RN-021": [],
+"RN-022": [],
+"RN-023": [],
+"RN-024": [
+{
+"name": "Zapaterías Victoria Tienda Roma",
+"reviews": 6,
+"cat": "Shoe Shop"
+},
+{
+"name": "TEA Thorsten Englert Architects",
+"reviews": 5,
+"cat": "Architect"
+}
+],
+"RN-025": [],
+"RN-026": [],
+"RN-027": [],
+"RN-028": [
+{
+"name": "La Locura De La Torta El Estudiante",
+"reviews": 101,
+"cat": "Fast food restaurant"
+}
+],
+"RN-029": [],
+"RN-032": [],
+"RN-033": [
+{
+"name": "La Corriente Cevichería Nais",
+"reviews": 1717,
+"cat": "Seafood restaurant"
+},
+{
+"name": "Casa Orizaba",
+"reviews": 4,
+"cat": "Events Venue"
+}
+],
+"RN-034": [],
+"RN-035": [],
+"RN-271": [],
+"RN-036": [
+{
+"name": "CASTIZO ROMA",
+"reviews": 562,
+"cat": "Restaurant"
+}
+],
+"RN-037": [],
+"RN-038": [
+{
+"name": "Casa Universitaria del Libro UNAM",
+"reviews": 714,
+"cat": "Cultural centre"
+}
+],
+"RN-039": [],
+"RN-273": [
+{
+"name": "Covadonga",
+"reviews": 4263,
+"cat": "Spanish restaurant"
+}
+],
+"RN-040": [],
+"RN-041": [],
+"RN-042": [],
+"RN-043": [
+{
+"name": "Literaria Centro Mexicano de Escritores",
+"reviews": 42,
+"cat": "Education Centre"
+}
+],
+"RN-272": [
+{
+"name": "144Rayos",
+"reviews": 228,
+"cat": "Bicycle Shop"
+},
+{
+"name": "Deli Gallery CDMX",
+"reviews": 7,
+"cat": "Art gallery"
+}
+],
+"RN-044": [],
+"RN-045": [],
+"RN-275": [
+{
+"name": "Revuelta Queer House",
+"reviews": 754,
+"cat": "Queer bar"
+}
+],
+"RN-046": [],
+"RN-047": [
+{
+"name": "ULTRAMARINOS DEMAR",
+"reviews": 392,
+"cat": "Restaurant"
+}
+],
+"RN-048": [
+{
+"name": "Deseo Café de Especialidad",
+"reviews": 1755,
+"cat": "Cafe"
+},
+{
+"name": "Fuente de Sodas Roma",
+"reviews": 6,
+"cat": "Restaurant"
+},
+{
+"name": "RM26",
+"reviews": 4,
+"cat": "Hostel"
+}
+],
+"RN-049": [],
+"RN-050": [],
+"RN-051": [
+{
+"name": "Casa Oliva",
+"reviews": 65,
+"cat": "Hotel"
+}
+],
+"RN-052": [
+{
+"name": "3 Jinetes Restaurant - Cocina Vaquera",
+"reviews": 11,
+"cat": "Restaurant"
+}
+],
+"RN-274": [
+{
+"name": "Anomalía",
+"reviews": 173,
+"cat": "Art gallery"
+},
+{
+"name": "PROCUSTO Vinos, helados y drinks",
+"reviews": 65,
+"cat": "Bar"
+}
+],
+"RN-053": [],
+"RN-054": [],
+"RN-055": [],
+"RN-057": [],
+"RN-058": [
+{
+"name": "Fonda Carmela",
+"reviews": 375,
+"cat": "Mexican restaurant"
+}
+],
+"RN-059": [],
+"RN-060": [],
+"RN-061": [],
+"RN-277": [
+{
+"name": "Sepia",
+"reviews": 1334,
+"cat": "Italian restaurant"
+}
+],
+"RN-062": [
+{
+"name": "Restaurante Lorea",
+"reviews": 664,
+"cat": "Fine dining restaurant"
+},
+{
+"name": "Aleli",
+"reviews": 629,
+"cat": "Restaurant"
+}
+],
+"RN-063": [
+{
+"name": "Super Tyrano. Heladería Artesanal",
+"reviews": 322,
+"cat": "Ice cream shop"
+}
+],
+"RN-064": [],
+"RN-065": [],
+"RN-066": [
+{
+"name": "Guillermo Tovar de Teresa Museum",
+"reviews": 3207,
+"cat": "Museum"
+},
+{
+"name": "Café Tres Abejas",
+"reviews": 1,
+"cat": "Cafe"
+}
+],
+"RN-067": [],
+"RN-278": [],
+"RN-068": [],
+"RN-069": [],
+"RN-070": [],
+"RN-283": [
+{
+"name": "Maison Artemisia",
+"reviews": 623,
+"cat": "Cocktail bar"
+},
+{
+"name": "Loup Bar",
+"reviews": 507,
+"cat": "Restaurant"
+}
+],
+"RN-071": [],
+"RN-072": [],
+"RN-073": [],
+"RN-074": [
+{
+"name": "Isabella Café Conde",
+"reviews": 4743,
+"cat": "Cafe"
+}
+],
+"RN-075": [],
+"RN-076": [],
+"RN-077": [],
+"RN-078": [
+{
+"name": "La Casona de Fidel",
+"reviews": 28,
+"cat": "Museum"
+}
+],
+"RN-079": [],
+"RN-080": [
+{
+"name": "Casona Roma Norte",
+"reviews": 312,
+"cat": "Hotel"
+},
+{
+"name": "Tacos Romita",
+"reviews": 155,
+"cat": "Taco restaurant"
+}
+],
+"RN-260": [
+{
+"name": "Casa Jarana",
+"reviews": 66,
+"cat": "Events Venue"
+}
+],
+"RN-081": [
+{
+"name": "Sativa 4U Durango R",
+"reviews": 56,
+"cat": "Coffee shop"
+}
+],
+"RN-276": [
+{
+"name": "Fónico",
+"reviews": 1599,
+"cat": "Restaurant"
+},
+{
+"name": "Rayo",
+"reviews": 559,
+"cat": "Bar"
+}
+],
+"RN-259": [],
+"RN-082": [],
+"RN-083": [],
+"RN-084": [
+{
+"name": "PUNI PUNI Bubble Tea",
+"reviews": 355,
+"cat": "Coffee shop"
+}
+],
+"RN-085": [],
+"RN-086": [
+{
+"name": "Diablo Negro Mezcal",
+"reviews": 309,
+"cat": "Gastropub"
+},
+{
+"name": "Diablo Secret",
+"reviews": 105,
+"cat": "Social club"
+}
+],
+"RN-087": [
+{
+"name": "MER CAFE",
+"reviews": 16,
+"cat": "Espresso bar"
+}
+],
+"RN-088": [
+{
+"name": "Sara y Julieta",
+"reviews": 2,
+"cat": "Hotel"
+}
+],
+"RN-089": [
+{
+"name": "Olivia Foundation",
+"reviews": 58,
+"cat": "Art museum"
+}
+],
+"RN-090": [],
+"RN-091": [],
+"RN-092": [],
+"RN-093": [
+{
+"name": "Artes de México",
+"reviews": 70,
+"cat": "Book publisher"
+}
+],
+"RN-094": [],
+"RN-095": [
+{
+"name": "Blueberry Shop",
+"reviews": 18,
+"cat": "Clothing Shop"
+}
+],
+"RN-096": [],
+"RN-097": [
+{
+"name": "Hamburguesas a la P",
+"reviews": 6055,
+"cat": "Hamburger restaurant"
+}
+],
+"RN-098": [],
+"RN-099": [
+{
+"name": "Papelería Sulamita",
+"reviews": 57,
+"cat": "Stationery Shop"
+}
+],
+"RN-100": [],
+"RN-101": [],
+"RN-102": [],
+"RN-103": [],
+"RN-104": [],
+"RN-105": [
+{
+"name": "Gran Cantina Filomeno",
+"reviews": 1105,
+"cat": "Restaurant"
+},
+{
+"name": "The Midnight Monkey",
+"reviews": 407,
+"cat": "Bar"
+}
+],
+"RN-256": [
+{
+"name": "Hotel Villa Condesa",
+"reviews": 270,
+"cat": "Hotel"
+}
+],
+"RN-106": [],
+"RN-107": [],
+"RN-108": [],
+"RN-109": [],
+"RN-110": [
+{
+"name": "Fideicomiso Archivo",
+"reviews": 149,
+"cat": "Archive"
+}
+],
+"RN-111": [
+{
+"name": "Cafernícola Coffee",
+"reviews": 85,
+"cat": "Espresso bar"
+}
+],
+"RN-112": [
+{
+"name": "Pizza del Perro Negro",
+"reviews": 17982,
+"cat": "Pizza restaurant"
+},
+{
+"name": "Muerte a la Pizza Falsa",
+"reviews": 984,
+"cat": "Restaurant"
+}
+],
+"RN-113": [
+{
+"name": "Kura",
+"reviews": 6584,
+"cat": "Japanese restaurant"
+}
+],
+"RN-114": [
+{
+"name": "Kloer Boutique",
+"reviews": 28,
+"cat": "Ladies' Clothes shop"
+}
+],
+"RN-115": [
+{
+"name": "Distrito Foods",
+"reviews": 43,
+"cat": "Supermarket"
+}
+],
+"RN-116": [],
+"RN-117": [],
+"RN-118": [],
+"RN-120": [],
+"RN-121": [],
+"RN-122": [],
+"RN-123": [],
+"RN-124": [],
+"RN-125": [],
+"RN-126": [],
+"RN-127": [
+{
+"name": "Huset",
+"reviews": 4354,
+"cat": "Mexican restaurant"
+},
+{
+"name": "Pretty Bitches Salon",
+"reviews": 162,
+"cat": "Beauty salon"
+},
+{
+"name": "TD-Room",
+"reviews": 53,
+"cat": "Art gallery"
+}
+],
+"RN-128": [
+{
+"name": "Originario",
+"reviews": 57,
+"cat": "Home Furniture shop"
+}
+],
+"RN-129": [],
+"RN-130": [],
+"RN-131": [],
+"RN-255": [
+{
+"name": "Nima Local House Hotel",
+"reviews": 131,
+"cat": "Hotel"
+}
+],
+"RN-133": [],
+"RN-134": [],
+"RN-135": [],
+"RN-137": [
+{
+"name": "Metate Colima",
+"reviews": 8,
+"cat": "Handicraft"
+}
+],
+"RN-138": [],
+"RN-139": [
+{
+"name": "Cornelio Borda",
+"reviews": 3,
+"cat": "Shop"
+}
+],
+"RN-140": [],
+"RN-141": [
+{
+"name": "Café Karlú",
+"reviews": 35,
+"cat": "Coffee shop"
+}
+],
+"RN-142": [
+{
+"name": "Buddhist center of Mexico City",
+"reviews": 736,
+"cat": "Buddhist temple"
+}
+],
+"RN-143": [],
+"RN-144": [],
+"RN-145": [],
+"RN-146": [],
+"RN-147": [
+{
+"name": "Centro Gallego de México",
+"reviews": 1055,
+"cat": "Association"
+},
+{
+"name": "Bazar Resiliente",
+"reviews": 229,
+"cat": "Clothing Shop"
+}
+],
+"RN-148": [
+{
+"name": "Casa Tibet México",
+"reviews": 39,
+"cat": "Cultural centre"
+}
+],
+"RN-149": [
+{
+"name": "Cerrajería Restaurante",
+"reviews": 1380,
+"cat": "Restaurant"
+},
+{
+"name": "Brick Hotel",
+"reviews": 771,
+"cat": "Hotel"
+}
+],
+"RN-150": [
+{
+"name": "Butcher & Sons",
+"reviews": 4721,
+"cat": "Hamburger restaurant"
+},
+{
+"name": "Gelatoscopio",
+"reviews": 257,
+"cat": "Ice cream shop"
+}
+],
+"RN-151": [],
+"RN-152": [
+{
+"name": "Blanco Colima",
+"reviews": 3155,
+"cat": "Restaurant"
+}
+],
+"RN-254": [
+{
+"name": "Rosetta",
+"reviews": 4916,
+"cat": "Fine dining restaurant"
+}
+],
+"RN-153": [],
+"RN-154": [],
+"RN-155": [
+{
+"name": "MODO Museo del Objeto",
+"reviews": 3891,
+"cat": "Museum"
+}
+],
+"RN-157": [],
+"RN-158": [],
+"RN-159": [],
+"RN-160": [],
+"RN-161": [
+{
+"name": "Bahia",
+"reviews": 7,
+"cat": "Florist"
+}
+],
+"RN-164": [
+{
+"name": "Nymphaea Spa",
+"reviews": 163,
+"cat": "Massage spa"
+}
+],
+"RN-165": [],
+"RN-166": [],
+"RN-168": [],
+"RN-169": [],
+"RN-170": [],
+"RN-171": [],
+"RN-172": [],
+"RN-173": [
+{
+"name": "Maison du Comte",
+"reviews": 42,
+"cat": "Hotel"
+}
+],
+"RN-174": [],
+"RN-175": [],
+"RN-176": [],
+"RN-177": [],
+"RN-178": [],
+"RN-179": [],
+"RN-279": [
+{
+"name": "Arróniz Arte Contemporáneo",
+"reviews": 89,
+"cat": "Art gallery"
+}
+],
+"RN-180": [],
+"RN-266": [
+{
+"name": "Casa Franca",
+"reviews": 1976,
+"cat": "Bar"
+},
+{
+"name": "Franca Bistro",
+"reviews": 1230,
+"cat": "Pizza restaurant"
+}
+],
+"RN-181": [
+{
+"name": "Foro Lenin",
+"reviews": 2855,
+"cat": "Performing arts theatre"
+}
+],
+"RN-182": [
+{
+"name": "Casa Seis Siete",
+"reviews": 33,
+"cat": "Bed & breakfast"
+}
+],
+"RN-184": [],
+"RN-185": [],
+"RN-186": [],
+"RN-187": [],
+"RN-188": [],
+"RN-189": [
+{
+"name": "Librería Anticuaria",
+"reviews": 51,
+"cat": "Second-hand Bookshop"
+}
+],
+"RN-190": [],
+"RN-264": [],
+"RN-191": [
+{
+"name": "Krikas (Don Beto)",
+"reviews": 1044,
+"cat": "Mexican restaurant"
+}
+],
+"RN-192": [],
+"RN-193": [],
+"RN-194": [],
+"RN-195": [],
+"RN-196": [],
+"RN-197": [],
+"RN-198": [
+{
+"name": "Ajeno",
+"reviews": 590,
+"cat": "Events Venue"
+},
+{
+"name": "Apricot Roma",
+"reviews": 160,
+"cat": "Restaurant"
+}
+],
+"RN-199": [],
+"RN-200": [],
+"RN-201": [],
+"RN-202": [
+{
+"name": "Marcello",
+"reviews": 1917,
+"cat": "Italian restaurant"
+}
+],
+"RN-203": [],
+"RN-204": [
+{
+"name": "Taquería Orinoco",
+"reviews": 28932,
+"cat": "Taco restaurant"
+},
+{
+"name": "Burger Bar Joint",
+"reviews": 3566,
+"cat": "Hamburger restaurant"
+}
+],
+"RN-205": [
+{
+"name": "Peltre",
+"reviews": 4107,
+"cat": "Cafe"
+},
+{
+"name": "Randy's Donuts",
+"reviews": 588,
+"cat": "Doughnut Shop"
+}
+],
+"RN-206": [],
+"RN-207": [],
+"RN-208": [
+{
+"name": "Bisquets Obregón",
+"reviews": 8952,
+"cat": "Restaurant"
+}
+],
+"RN-209": [],
+"RN-210": [
+{
+"name": "Gardela",
+"reviews": 8428,
+"cat": "Argentinian restaurant"
+},
+{
+"name": "La Docena",
+"reviews": 4866,
+"cat": "Seafood restaurant"
+}
+],
+"RN-211": [],
+"RN-251": [],
+"RN-212": [],
+"RN-213": [
+{
+"name": "Madre Café",
+"reviews": 8368,
+"cat": "Restaurant"
+},
+{
+"name": "Madre Roof",
+"reviews": 592,
+"cat": "Bar"
+}
+],
+"RN-214": [],
+"RN-215": [],
+"RN-257": [
+{
+"name": "Esca",
+"reviews": 309,
+"cat": "Italian restaurant"
+}
+],
+"RN-216": [],
+"RN-217": [
+{
+"name": "Cursi",
+"reviews": 1467,
+"cat": "Steak house"
+}
+],
+"RN-262": [
+{
+"name": "Jazzatlán Capital",
+"reviews": 2187,
+"cat": "Restaurant"
+},
+{
+"name": "Chetito",
+"reviews": 749,
+"cat": "Mexican restaurant"
+}
+],
+"RN-218": [],
+"RN-219": [],
+"RN-280": [
+{
+"name": "Matcha Mío Café",
+"reviews": 104,
+"cat": "Coffee shop"
+}
+],
+"RN-261": [
+{
+"name": "Hotel Boutique Casa Goliana",
+"reviews": 115,
+"cat": "Hotel"
+}
+],
+"RN-258": [
+{
+"name": "Varde",
+"reviews": 75,
+"cat": "Bar & grill"
+}
+],
+"RN-220": [],
+"RN-221": [],
+"RN-222": [],
+"RN-223": [],
+"RN-224": [],
+"RN-225": [],
+"RN-270": [],
+"RN-242": [],
+"RN-287": [
+{
+"name": "Broka",
+"reviews": 1579,
+"cat": "Restaurant"
+},
+{
+"name": "Si Mon Vinos Mexicanos",
+"reviews": 533,
+"cat": "Restaurant"
+}
+],
+"RN-227": [
+{
+"name": "College of Communication",
+"reviews": 267,
+"cat": "Private university"
+}
+],
+"RN-228": [],
+"RN-289": [
+{
+"name": "Cancino",
+"reviews": 4855,
+"cat": "Pizza restaurant"
+}
+],
+"RN-226": [],
+"RN-229": [
+{
+"name": "Casa Rafael Galvan",
+"reviews": 451,
+"cat": "Cultural centre"
+}
+],
+"RN-230": [],
+"RN-231": [],
+"RN-288": [],
+"RN-285": [
+{
+"name": "Páramo",
+"reviews": 3870,
+"cat": "Mexican restaurant"
+},
+{
+"name": "El Parnita",
+"reviews": 2953,
+"cat": "Mexican restaurant"
+},
+{
+"name": "Expendio de Maiz",
+"reviews": 2014,
+"cat": "Restaurant"
+}
+],
+"RN-233": [
+{
+"name": "Monte Sinai",
+"reviews": 48,
+"cat": "Synagogue"
+}
+],
+"RN-234": [],
+"RN-235": [
+{
+"name": "Universidad de Londres plantel Luis Cabrera",
+"reviews": 807,
+"cat": "Private university"
+},
+{
+"name": "University of London campus Querétaro",
+"reviews": 311,
+"cat": "Private university"
+}
+],
+"RN-236": [
+{
+"name": "FOLKIA MX, VINTAGE STORE",
+"reviews": 19,
+"cat": "Clothing Shop"
+}
+],
+"RN-268": [],
+"RN-237": [
+{
+"name": "Plaza Insurgentes",
+"reviews": 15325,
+"cat": "Shopping mall"
+},
+{
+"name": "Sears Insurgentes",
+"reviews": 5130,
+"cat": "Department store"
+}
+],
+"RN-238": [
+{
+"name": "Plaza Insurgentes",
+"reviews": 15325,
+"cat": "Shopping mall"
+},
+{
+"name": "Sears Insurgentes",
+"reviews": 5130,
+"cat": "Department store"
+}
+],
+"RN-239": [
+{
+"name": "University of London Campus Medellin",
+"reviews": 35,
+"cat": "University"
+}
+],
+"RN-265": [],
+"RN-240": [
+{
+"name": "Universidad de Londres plantel Luis Cabrera",
+"reviews": 807,
+"cat": "Private university"
+},
+{
+"name": "Universidad de Londres plantel San Luis Potosi",
+"reviews": 475,
+"cat": "University"
+}
+],
+"RN-286": [],
+"RN-269": [
+{
+"name": "Terreno Baldío Arte",
+"reviews": 168,
+"cat": "Art gallery"
+}
+],
+"RN-241": [
+{
+"name": "Universidad de Londres plantel Luis Cabrera",
+"reviews": 807,
+"cat": "Private university"
+},
+{
+"name": "University of London",
+"reviews": 164,
+"cat": "University"
+}
+],
+"RN-243": [],
+"RN-244": [
+{
+"name": "666 (seis seis seis)",
+"reviews": 10,
+"cat": "Bar"
+},
+{
+"name": "Astro.cito Dulces a Granel",
+"reviews": 5,
+"cat": "Sweet shop"
+}
+],
+"RN-245": [],
+"RN-281": [
+{
+"name": "Santa Casa by Tasman",
+"reviews": 93,
+"cat": "Hotel"
+}
+],
+"RN-282": [
+{
+"name": "Bacanora Terraza",
+"reviews": 1316,
+"cat": "Mexican restaurant"
+},
+{
+"name": "La Taque Roma Norte",
+"reviews": 952,
+"cat": "Gastropub"
+},
+{
+"name": "Ardente Pizzería Napoletana Roma",
+"reviews": 111,
+"cat": "Pizza restaurant"
+}
+],
+"RN-263": [
+{
+"name": "Ignacia Guest House",
+"reviews": 116,
+"cat": "Hotel"
+}
+],
+"RN-246": [],
+"RN-247": [
+{
+"name": "Sastrería Santana",
+"reviews": 55,
+"cat": "Men's Clothes Shop"
+}
+],
+"RN-248": [
+{
+"name": "Banzo",
+"reviews": 15,
+"cat": "Clothing Shop"
+}
+],
+"RN-249": [
+{
+"name": "MAQUE CAFÉ",
+"reviews": 966,
+"cat": "Coffee shop"
+}
+],
+"RN-253": [],
+"RN-250": [],
+"RN-119": [],
+"RN-284": [
+{
+"name": "La Valise mx City, an SLH Hotel",
+"reviews": 304,
+"cat": "Hotel"
+},
+{
+"name": "La Valise Café",
+"reviews": 46,
+"cat": "Espresso bar"
+}
+],
+"RN-132": [
+{
+"name": "Lotti",
+"reviews": 187,
+"cat": "Restaurant"
+},
+{
+"name": "El Cortes",
+"reviews": 76,
+"cat": "Hotel"
+}
+],
+"RN-136": [],
+"RN-156": [],
+"RN-162": [],
+"RN-163": [],
+"RN-167": [],
+"RN-183": []
+}

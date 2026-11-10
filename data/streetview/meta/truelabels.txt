@@ -1,0 +1,289 @@
+D01|59 Eje 3 Pte
+D02|40 Córdoba
+D03|43 Orizaba
+D04|77 Chihuahua
+D05|90 Durango
+D07|112 Álvaro Obregón
+D08|185 Álvaro Obregón
+D09|90 Córdoba
+D10|306 Colima
+D11|14 Jalapa
+D12|138 Mérida
+D13|59 Chiapas
+D14|170 Eje 2 Sur
+P109|-
+RN-001|12 Valladolid
+RN-002|21 Córdoba
+RN-003|Mexico City
+RN-004|Mexico City
+RN-005|392 Chapultepec
+RN-006|5 Córdoba
+RN-007|Mexico City
+RN-008|16 Mérida
+RN-009|16 Mérida
+RN-010|14 Córdoba
+RN-011|34 Sonora
+RN-012|6 Circular de Morelia
+RN-013|23 Valladolid
+RN-014|302 Puebla
+RN-015|26 Guadalajara
+RN-016|32 Eje 3 Pte
+RN-017|23 Cozumel
+RN-018|20 Tonalá
+RN-019|33 Oaxaca
+RN-020|160 Puebla
+RN-021|29 Jalapa
+RN-022|39 Jalapa
+RN-023|128 Puebla
+RN-024|24 Jalapa
+RN-025|23 Valladolid
+RN-026|28 Jalapa
+RN-027|127 Puebla
+RN-028|222 Jalapa
+RN-029|152 Puebla
+RN-032|53 Jalapa
+RN-033|120 Puebla
+RN-034|22 Orizaba
+RN-035|74 Orizaba
+RN-036|72 Orizaba
+RN-037|116 Puebla
+RN-038|120 Puebla
+RN-039|-
+RN-040|-
+RN-041|44 Jalapa
+RN-042|47 Córdoba
+RN-043|35 Córdoba
+RN-044|78 Orizaba
+RN-045|210 Mérida
+RN-046|26 Mérida
+RN-047|22 Mérida
+RN-048|43 Mérida
+RN-049|80 Puebla
+RN-050|71 Puebla
+RN-051|56 Mérida
+RN-052|50 Mérida
+RN-053|61 Puebla
+RN-054|4 Callejón de Romita
+RN-055|173 Sinaloa
+RN-057|195 Sinaloa
+RN-058|199 Sinaloa
+RN-059|179 Sinaloa
+RN-060|59 Cuauhtémoc
+RN-061|51 Puebla
+RN-062|52 Valladolid
+RN-063|54 Valladolid
+RN-064|125 Sinaloa
+RN-065|170 Sinaloa
+RN-066|98 Sinaloa
+RN-068|-
+RN-069|23 Tonalá
+RN-070|39 Sinaloa
+RN-071|58 Sinaloa
+RN-072|332 Durango
+RN-073|55 Acapulco
+RN-074|313 Durango
+RN-075|70 Acapulco
+RN-076|80 Sonora
+RN-077|79 Guadalajara
+RN-078|330 Durango
+RN-079|51 Cozumel
+RN-080|280 Durango
+RN-081|281 Durango
+RN-082|67 Medellín
+RN-083|184 Durango
+RN-084|63 Medellín
+RN-085|46 Tonalá
+RN-086|80 Eje 2 Pte
+RN-087|36 Tonalá
+RN-088|149 Durango
+RN-089|175 Durango
+RN-090|78 Jalapa
+RN-091|81 Morelia
+RN-092|67 Córdoba
+RN-093|69 Córdoba
+RN-094|80 Durango
+RN-095|1a. Privada Tonalá
+RN-096|62 Jalapa
+RN-097|3 Plaza Río de Janeiro
+RN-098|12 Cerrada Río de Janeiro
+RN-099|56 Plaza Río de Janeiro
+RN-100|10 Cerrada Río de Janeiro
+RN-101|10 Cerrada Río de Janeiro
+RN-102|Mexico City
+RN-103|85 Morelia
+RN-104|421 Colima
+RN-105|426 Colima
+RN-106|429 Colima
+RN-107|102 Veracruz
+RN-108|46 Plaza Río de Janeiro
+RN-109|423 Colima
+RN-110|96 Eje 3 Pte
+RN-111|126 Guadalajara
+RN-112|378 Colima
+RN-113|370 Colima
+RN-114|1 Parque España
+RN-115|384 Colima
+RN-116|365 Colima
+RN-117|325 Colima
+RN-118|96 Oaxaca
+RN-119|237 Colima
+RN-120|96 Oaxaca
+RN-121|309 Colima
+RN-122|66 Medellín
+RN-123|325 Colima
+RN-124|55 Tonalá
+RN-125|245 Colima
+RN-126|252 Colima
+RN-127|265 Colima
+RN-128|289 Colima
+RN-129|269 Colima
+RN-130|Insurgentes Sur
+RN-131|-
+RN-132|59 Tonalá
+RN-133|236 Colima
+RN-134|230 Colima
+RN-135|-
+RN-136|230 Colima
+RN-137|84 Jalapa
+RN-138|-
+RN-139|224 Colima
+RN-140|208 Colima
+RN-141|94 Jalapa
+RN-142|82 Jalapa
+RN-143|189 Colima
+RN-144|197 Colima
+RN-145|94 Orizaba
+RN-147|-
+RN-148|93 Orizaba
+RN-149|93 Orizaba
+RN-150|95 Orizaba
+RN-151|198 Colima
+RN-152|145 Colima
+RN-153|82 Orizaba
+RN-154|112 Colima
+RN-155|123 Colima
+RN-156|80 Córdoba
+RN-157|124 Colima
+RN-158|157 Colima
+RN-159|166 Colima
+RN-160|82 Colima
+RN-161|77 Colima
+RN-162|92 Colima
+RN-163|80 Colima
+RN-164|329 Tabasco
+RN-165|87 Mérida
+RN-166|333 Tabasco
+RN-167|327 Tabasco
+RN-168|294 Tabasco
+RN-169|329 Tabasco
+RN-170|329 Tabasco
+RN-171|100 Valladolid
+RN-172|99 Medellín
+RN-173|333 Tabasco
+RN-174|313 Tabasco
+RN-175|288 Tabasco
+RN-176|297 Tabasco
+RN-177|86 Medellín
+RN-178|313 Tabasco
+RN-179|99 Mérida
+RN-180|16 Yucatán
+RN-181|112 Mérida
+RN-182|291 Álvaro Obregón
+RN-183|61 Tabasco
+RN-184|61 Tabasco
+RN-185|215 Tabasco
+RN-186|111 Eje 2 Pte
+RN-187|-
+RN-189|196 Álvaro Obregón
+RN-190|112 Eje 2 Pte
+RN-191|122 Eje 2 Pte
+RN-192|170 Álvaro Obregón
+RN-193|84 Tonalá
+RN-194|139 Álvaro Obregón
+RN-195|161 Álvaro Obregón
+RN-196|Jalapa
+RN-197|153 Álvaro Obregón
+RN-198|101 Orizaba
+RN-199|126 Álvaro Obregón
+RN-200|130 Álvaro Obregón
+RN-201|112 Álvaro Obregón
+RN-202|106 Álvaro Obregón
+RN-203|112 Álvaro Obregón
+RN-204|85 Álvaro Obregón
+RN-205|99 Álvaro Obregón
+RN-206|113 Córdoba
+RN-207|45 Álvaro Obregón
+RN-208|Casa del Poeta
+RN-209|31 Álvaro Obregón
+RN-210|60 Álvaro Obregón
+RN-211|Frontera
+RN-213|136 Orizaba
+RN-214|192 Chihuahua
+RN-215|83 Chihuahua
+RN-216|226 Guanajuato
+RN-217|78 Chihuahua
+RN-218|131 Córdoba
+RN-219|179 Guanajuato
+RN-220|124 Tonalá
+RN-221|52 Guanajuato
+RN-222|52 Guanajuato
+RN-223|9 Plaza Luis Cabrera
+RN-224|54 Guanajuato
+RN-225|11 Plaza Luis Cabrera
+RN-227|98 Zacatecas
+RN-228|151 Orizaba
+RN-230|41 Zacatecas
+RN-231|91 Zacatecas
+RN-233|84 Eje 2 Sur
+RN-235|77 Eje 2 Sur
+RN-236|110 Querétaro
+RN-239|154 San Luis Potosí
+RN-240|191 San Luis Potosí
+RN-241|191 Orizaba
+RN-242|177 Orizaba
+RN-243|67 San Luis Potosí
+RN-244|84 Chiapas
+RN-245|143 Tonalá
+RN-246|138 Tonalá
+RN-247|206 Coahuila
+RN-248|65 Coahuila
+RN-249|219 Orizaba
+RN-250|6 Coahuila
+RN-251|139 Orizaba
+RN-252|34 Acapulco
+RN-253|135 Coahuila
+RN-254|-
+RN-255|51 Tonalá
+RN-256|56 Plaza Río de Janeiro
+RN-257|232 Guanajuato
+RN-258|147 Córdoba
+RN-259|80 Salamanca
+RN-260|216 Durango
+RN-261|199 Guanajuato
+RN-262|74 Chihuahua
+RN-263|12 San Luis Potosí
+RN-264|112 Medellín
+RN-265|206 Monterrey
+RN-266|297 Tabasco
+RN-267|2 Mérida
+RN-268|186 Mérida
+RN-269|183 Orizaba
+RN-270|46 Coahuila
+RN-271|76 Orizaba
+RN-272|109 Puebla
+RN-273|24 Orizaba
+RN-274|74 Puebla
+RN-275|91 Puebla
+RN-276|272 Durango
+RN-277|143 Sinaloa
+RN-278|2 Sinaloa
+RN-279|133 Tabasco
+RN-280|62 Guanajuato
+RN-281|211 Jalapa
+RN-282|211 Orizaba
+RN-283|47 Tampico
+RN-284|325 Colima
+RN-285|147 Córdoba
+RN-287|126 Zacatecas
+RN-288|84 Yucatán
+RN-289|120 Zacatecas

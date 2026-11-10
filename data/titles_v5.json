@@ -1,0 +1,2567 @@
+[
+{
+"no": 1,
+"id": "RN-001",
+"address": "Valladolid 14-18",
+"title": "Valladolid 14-18",
+"old_tenant": "",
+"current": "Mixed use: business ×2, shop ×2, beauty salon (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 2,
+"id": "RN-002",
+"address": "Chapultepec 392",
+"title": "Chapultepec 392",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 3,
+"id": "RN-003",
+"address": "Chapultepec 260",
+"title": "Chapultepec 260",
+"old_tenant": "",
+"current": "Jing Cheng (restaurant) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 4,
+"id": "RN-004",
+"address": "Córdoba 23",
+"title": "Córdoba 23",
+"old_tenant": "",
+"current": "Tractian Tecnologia Industrial (office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 5,
+"id": "RN-005",
+"address": "Córdoba 1",
+"title": "Córdoba 1",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 6,
+"id": "RN-006",
+"address": "Córdoba 8",
+"title": "Córdoba 8",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 7,
+"id": "RN-007",
+"address": "Córdoba 14",
+"title": "Córdoba 14 (Círculo Cubano de México and Zunzún restaurant)",
+"old_tenant": "Círculo Cubano de México",
+"current": "Círculo Cubano de México (per S1, 2015)",
+"current_source": "draft 3"
+},
+{
+"no": 8,
+"id": "RN-008",
+"address": "Chapultepec 218",
+"title": "Chapultepec 218",
+"old_tenant": "",
+"current": "Aerotransportes Corporativos (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 9,
+"id": "RN-009",
+"address": "Mérida 2-10",
+"title": "Mérida 2-10",
+"old_tenant": "",
+"current": "Mixed use: business, shop (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 10,
+"id": "RN-267",
+"address": "Mérida 16",
+"title": "Mérida 16",
+"old_tenant": "Casa POSTA (headquarters of the",
+"current": "Headquarters, content studio and event space of the media group POSTA, opened in April 2026; rooms renamed after historical themes (Vestíbulo Carmen Romero, Sala del Ángel, Sala Bellas Artes).",
+"current_source": "draft 3"
+},
+{
+"no": 11,
+"id": "RN-010",
+"address": "Mérida 12",
+"title": "Mérida 12",
+"old_tenant": "",
+"current": "Blatter Gg (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 12,
+"id": "RN-252",
+"address": "Circular de Morelia 8",
+"title": "Circular de Morelia 8 (Sitio de Memoria Circular de Morelia, memorial site)",
+"old_tenant": "Sitio de Memoria Circular de",
+"current": "Memorial and human rights site run by the federal Subsecretaría de Derechos Humanos, open to the public since 2019.",
+"current_source": "draft 3"
+},
+{
+"no": 13,
+"id": "RN-011",
+"address": "Acapulco 31",
+"title": "Acapulco 31",
+"old_tenant": "",
+"current": "Academia De Baile (art school) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 14,
+"id": "RN-012",
+"address": "Sonora 31",
+"title": "Sonora 31",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 15,
+"id": "RN-013",
+"address": "Guadalajara 26",
+"title": "Guadalajara 26",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 16,
+"id": "RN-014",
+"address": "Cozumel 23",
+"title": "Cozumel 23",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 17,
+"id": "RN-015",
+"address": "Puebla 301-305",
+"title": "Puebla 301-305",
+"old_tenant": "",
+"current": "Mixed use: business ×4, shop ×2, office ×2, law firm ×2 (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 18,
+"id": "RN-016",
+"address": "Salamanca 31",
+"title": "Salamanca 31",
+"old_tenant": "",
+"current": "rental apartments (new residential building?): A Pincali rental listing at Salamanca 31, Roma Norte 06700 offers a 'brand new' 37 m² loft in a building with elevator, co-working, laundry and commercial spaces; this suggests the lot now holds (or the house was converted into) a new apartment building. Not confirmed whether the historic house survives.",
+"current_source": "web"
+},
+{
+"no": 19,
+"id": "RN-017",
+"address": "Valladolid 25-31",
+"title": "Valladolid 25-31",
+"old_tenant": "",
+"current": "Mixed use: shop, office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 20,
+"id": "RN-018",
+"address": "Medellín 33",
+"title": "Medellín 33",
+"old_tenant": "",
+"current": "Cafeteria 1900S Cafe (café) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 21,
+"id": "RN-019",
+"address": "Puebla 222",
+"title": "Puebla 222",
+"old_tenant": "",
+"current": "Capilla Funeraria (funeral chapel) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 22,
+"id": "RN-020",
+"address": "Oaxaca 31",
+"title": "Oaxaca 31 (Testal restaurant)",
+"old_tenant": "Testal (restaurant)",
+"current": "Mexican antojitos restaurant (breakfast and lunch), with a branch in the Centro Histórico.",
+"current_source": "draft 3"
+},
+{
+"no": 23,
+"id": "RN-021",
+"address": "Tonalá 18",
+"title": "Tonalá 18",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 24,
+"id": "RN-022",
+"address": "Jalapa 29",
+"title": "Jalapa 29",
+"old_tenant": "",
+"current": "Laboratorio Clinico Diagnostico Molecular Inteligente (wholesale office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 25,
+"id": "RN-023",
+"address": "Jalapa 43",
+"title": "Jalapa 43",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 26,
+"id": "RN-024",
+"address": "Puebla 159",
+"title": "Puebla 159",
+"old_tenant": "",
+"current": "Mixed use: shop ×2, office ×2, business (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 27,
+"id": "RN-025",
+"address": "Jalapa 24-28",
+"title": "Jalapa 24-28",
+"old_tenant": "",
+"current": "Vintage Hoe (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 28,
+"id": "RN-026",
+"address": "Jalapa 32",
+"title": "Jalapa 32",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 29,
+"id": "RN-027",
+"address": "Jalapa 50",
+"title": "Jalapa 50",
+"old_tenant": "Instituto Pedagógico Anglo Español",
+"current": "Instituto Pedagógico Anglo Español (per S2, 2014)",
+"current_source": "draft 3"
+},
+{
+"no": 30,
+"id": "RN-028",
+"address": "Jalapa 44",
+"title": "Jalapa 44",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 31,
+"id": "RN-029",
+"address": "Puebla 151",
+"title": "Puebla 151",
+"old_tenant": "Angelopolitano (restaurant), Local A",
+"current": "Puebla-style restaurant known for its chiles en nogada.",
+"current_source": "draft 3"
+},
+{
+"no": 32,
+"id": "RN-032",
+"address": "Orizaba 46-50",
+"title": "Orizaba 46-50",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 33,
+"id": "RN-033",
+"address": "Orizaba 28",
+"title": "Orizaba 28 (La Corriente Cevichería Nais)",
+"old_tenant": "",
+"current": "Restaurante De Mariscos La Corriente Cevicheria Nais (restaurant) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 34,
+"id": "RN-034",
+"address": "Orizaba 30-32",
+"title": "Orizaba 30-32",
+"old_tenant": "",
+"current": "Bien Para Bien (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 35,
+"id": "RN-035",
+"address": "Orizaba 72",
+"title": "Orizaba 72",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 36,
+"id": "RN-271",
+"address": "Orizaba 76",
+"title": "Orizaba 76",
+"old_tenant": "Wabi Sushi and Panorama Rooftop",
+"current": "Sushi restaurant on the lower floors and a rooftop bar-restaurant in the same house, next to Plaza Río de Janeiro.",
+"current_source": "draft 3"
+},
+{
+"no": 37,
+"id": "RN-036",
+"address": "Orizaba 74",
+"title": "Orizaba 74 (Castizo restaurant)",
+"old_tenant": "Castizo Roma (restaurant)",
+"current": "Spanish restaurant of Grupo Castizo (chef Álvaro 'Milu' Crespo) on three floors with a rooftop terrace; opened 2026.",
+"current_source": "draft 3"
+},
+{
+"no": 38,
+"id": "RN-037",
+"address": "Orizaba 78",
+"title": "Orizaba 78",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 39,
+"id": "RN-038",
+"address": "Orizaba 24",
+"title": "Orizaba 24 (Casa Universitaria del Libro, UNAM)",
+"old_tenant": "Casa Universitaria del Libro -UNAM-",
+"current": "Mixed use: university, cultural venue (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 40,
+"id": "RN-039",
+"address": "Puebla 128",
+"title": "Puebla 128",
+"old_tenant": "",
+"current": "Servicios Especializados Riv (office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 41,
+"id": "RN-273",
+"address": "Puebla 121",
+"title": "Puebla 121 (Cantina La Covadonga)",
+"old_tenant": "Cantina Covadonga (bar)",
+"current": "Traditional Spanish cantina, officially the Salón Hispanomexicano, serving since 1958; known for dominoes and as a haunt of journalists and writers.",
+"current_source": "draft 3"
+},
+{
+"no": 42,
+"id": "RN-040",
+"address": "Puebla 122-124",
+"title": "Puebla 122-124",
+"old_tenant": "",
+"current": "Mixed use: business ×2, office, café (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 43,
+"id": "RN-041",
+"address": "Córdoba 37",
+"title": "Córdoba 37",
+"old_tenant": "",
+"current": "Mixed use: shop, office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 44,
+"id": "RN-042",
+"address": "Córdoba 45-47",
+"title": "Córdoba 45-47",
+"old_tenant": "INAH offices",
+"current": "Offices of INAH (per S2, 2014)",
+"current_source": "draft 3"
+},
+{
+"no": 45,
+"id": "RN-043",
+"address": "Córdoba 31-35",
+"title": "Córdoba 31-35",
+"old_tenant": "",
+"current": "Despacho De Diseño Grafico E Industrial (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 46,
+"id": "RN-272",
+"address": "Puebla 114",
+"title": "Puebla 114 (Deli Gallery)",
+"old_tenant": "Deli Gallery (gallery)",
+"current": "Mexico City branch of the New York gallery, opened 2023; two floors and about 335 m2 of exhibition space.",
+"current_source": "draft 3"
+},
+{
+"no": 47,
+"id": "RN-044",
+"address": "Puebla 112",
+"title": "Puebla 112",
+"old_tenant": "",
+"current": "Bufete De Abogados De La Peza Y Matuk Abogados (law firm) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 48,
+"id": "RN-045",
+"address": "Córdoba 16",
+"title": "Córdoba 16",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 49,
+"id": "RN-275",
+"address": "Puebla 94",
+"title": "Puebla 94 (Revuelta Queer House, LGBTQ+ cultural centre)",
+"old_tenant": "Revuelta Queer House -LGBTQ-",
+"current": "Cultural and community centre for the LGBTQ+ community opened in spring 2023: queer art exhibitions, talks, book launches, concerts, and a covered rooftop wine bar.",
+"current_source": "draft 3"
+},
+{
+"no": 50,
+"id": "RN-046",
+"address": "Mérida 43-47",
+"title": "Mérida 43-47",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 51,
+"id": "RN-047",
+"address": "Mérida 21",
+"title": "Mérida 21 (Ultramarinos Demar restaurant)",
+"old_tenant": "Ultramarinos Demar (seafood",
+"current": "Seafood restaurant, Michelin Bib Gourmand.",
+"current_source": "draft 3"
+},
+{
+"no": 52,
+"id": "RN-048",
+"address": "Mérida 26-28",
+"title": "Mérida 26-28 (Deseo café)",
+"old_tenant": "",
+"current": "Mixed use: shop ×2 (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 53,
+"id": "RN-049",
+"address": "Puebla 82 A y B",
+"title": "Puebla 82 A y B",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 54,
+"id": "RN-050",
+"address": "Mérida 36",
+"title": "Mérida 36",
+"old_tenant": "",
+"current": "Soy Republica (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 55,
+"id": "RN-051",
+"address": "Puebla 74",
+"title": "Puebla 74 (Casa Oliva hotel)",
+"old_tenant": "",
+"current": "under renovation (PAOT heritage case): Catalogued by INBAL and SEDUVI. PAOT imposed a precautionary measure on 16 Mar 2021 (case PAOT-2020-901-SOT-259) over unauthorized works: structural reinforcement, new metal stair, wall extensions and a replaced third-floor slab. Present use not stated.",
+"current_source": "web"
+},
+{
+"no": 56,
+"id": "RN-052",
+"address": "Mérida 50",
+"title": "Mérida 50 (Colegio México school)",
+"old_tenant": "Colegio México",
+"current": "Colegio México (Marist school, primary) (per S2)",
+"current_source": "draft 3"
+},
+{
+"no": 57,
+"id": "RN-274",
+"address": "Puebla 72",
+"title": "Puebla 72 (Anomalía gallery)",
+"old_tenant": "Anomalía (art gallery)",
+"current": "Gallery of work by Mexican artists over two floors, with a café.",
+"current_source": "draft 3"
+},
+{
+"no": 58,
+"id": "RN-053",
+"address": "Puebla 61",
+"title": "Puebla 61",
+"old_tenant": "",
+"current": "under renovation (use unknown): PAOT imposed a precautionary suspension on 30 May 2025 on unauthorised works (false ceiling, electrical work, steel-and-translucent-sheet roof) at Puebla 61, an INBAL-listed property; current occupant not identified.",
+"current_source": "web"
+},
+{
+"no": 59,
+"id": "RN-054",
+"address": "Puebla 50",
+"title": "Puebla 50",
+"old_tenant": "",
+"current": "Mixed use: beauty salon ×2 (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 60,
+"id": "RN-055",
+"address": "Cuauhtémoc 59",
+"title": "Cuauhtémoc 59",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 61,
+"id": "RN-057",
+"address": "Callejón de Romita 8",
+"title": "Callejón de Romita 8",
+"old_tenant": "",
+"current": "cultural centre (reported): English Wikipedia's La Romita article says the house where politician Gilberto Rincón Gallardo lived, at La Romita #8, has been rehabilitated as a cultural centre; no recent operating details found.",
+"current_source": "web"
+},
+{
+"no": 62,
+"id": "RN-058",
+"address": "Sinaloa 199",
+"title": "Sinaloa 199 (Fonda Carmela restaurant)",
+"old_tenant": "",
+"current": "Diamond Construcciones Y Materiales (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 63,
+"id": "RN-059",
+"address": "Sinaloa 197",
+"title": "Sinaloa 197",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 64,
+"id": "RN-060",
+"address": "Sinaloa 179",
+"title": "Sinaloa 179",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 65,
+"id": "RN-061",
+"address": "Sinaloa 172",
+"title": "Sinaloa 172",
+"old_tenant": "",
+"current": "Instituto Universitario Del Prado (university) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 66,
+"id": "RN-277",
+"address": "Sinaloa 170",
+"title": "Sinaloa 170 (Sepia restaurant)",
+"old_tenant": "Sepia -Italian restaurant)",
+"current": "Italian cooking with seasonal Mexican produce, fresh pasta and risottos; covered terrace.",
+"current_source": "draft 3"
+},
+{
+"no": 67,
+"id": "RN-062",
+"address": "Sinaloa 141",
+"title": "Sinaloa 141 (Lorea restaurant and Alelí rooftop bar)",
+"old_tenant": "Lorea (restaurant); Alelí Rooftop;",
+"current": "Lorea restaurant on the main floor, Alelí Rooftop (wood-fire cooking, Michelin Bib Gourmand 2024) on the roof since the pandemic, and Antesala on the ground floor where Alelí began in 2012.",
+"current_source": "draft 3"
+},
+{
+"no": 68,
+"id": "RN-063",
+"address": "Sinaloa 125",
+"title": "Sinaloa 125 (Super Tyrano ice-cream shop)",
+"old_tenant": "Super Tyrano (ice cream shop)",
+"current": "Ice cream parlour known for dinosaur-shaped cones.",
+"current_source": "draft 3"
+},
+{
+"no": 69,
+"id": "RN-064",
+"address": "Valladolid 54",
+"title": "Valladolid 54",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 70,
+"id": "RN-065",
+"address": "Valladolid 56",
+"title": "Valladolid 56",
+"old_tenant": "Nube D'Leche (ice cream shop)",
+"current": "Ice cream served on cotton candy.",
+"current_source": "draft 3"
+},
+{
+"no": 71,
+"id": "RN-066",
+"address": "Valladolid 52",
+"title": "Valladolid 52 (Casa Museo Guillermo Tovar de Teresa)",
+"old_tenant": "Casa Museo Guillermo Tovar de",
+"current": "House museum run with Fundación Carlos Slim / Museo Soumaya; viceregal and 19th century art, original furnishings and a library of over 20,000 volumes. Free entry.",
+"current_source": "draft 3"
+},
+{
+"no": 72,
+"id": "RN-067",
+"address": "Sinaloa 96",
+"title": "Sinaloa 96",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 73,
+"id": "RN-278",
+"address": "Sinaloa 57",
+"title": "Sinaloa 57",
+"old_tenant": "Hotel Casa Awolly (hotel, restaurant",
+"current": "Boutique hotel, restaurant and the 'Tigre' secret terrace bar over three floors; interiors by Belgian designer Dirk Jan Kinet; chef Irak Roaro.",
+"current_source": "draft 3"
+},
+{
+"no": 74,
+"id": "RN-068",
+"address": "Sinaloa 38",
+"title": "Sinaloa 38",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 75,
+"id": "RN-069",
+"address": "Sinaloa (corner with Oaxaca)",
+"title": "Sinaloa (corner with Oaxaca)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 76,
+"id": "RN-070",
+"address": "Sinaloa 5",
+"title": "Sinaloa 5",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 77,
+"id": "RN-283",
+"address": "Tonalá 23",
+"title": "Tonalá 23 (Maison Artemisia cocktail bar and Loup Bar)",
+"old_tenant": "Maison Artemisia (cocktail bar)",
+"current": "High-end cocktail bar with charcuterie and cheese plates.",
+"current_source": "draft 3"
+},
+{
+"no": 78,
+"id": "RN-071",
+"address": "Durango 367",
+"title": "Durango 367",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 79,
+"id": "RN-072",
+"address": "Durango (corner with Acapulco)",
+"title": "Durango (corner with Acapulco)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 80,
+"id": "RN-073",
+"address": "Durango 338",
+"title": "Durango 338",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 81,
+"id": "RN-074",
+"address": "Durango 330",
+"title": "Durango 330 (Isabella Café)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 82,
+"id": "RN-075",
+"address": "Acapulco 70",
+"title": "Acapulco 70",
+"old_tenant": "",
+"current": "Nidje Israel community centre and synagogue (per thesis; not re-confirmed): The thesis identifies the building as the Centro Comunitario y Sinagoga Nidje Israel of the Ashkenazi community; two searches found no current online source confirming its present use at Acapulco 70.",
+"current_source": "web"
+},
+{
+"no": 83,
+"id": "RN-076",
+"address": "Durango 313-315A",
+"title": "Durango 313-315A",
+"old_tenant": "",
+"current": "Marna (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 84,
+"id": "RN-077",
+"address": "Guadalajara 78",
+"title": "Guadalajara 78",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 85,
+"id": "RN-078",
+"address": "Sonora 80-88",
+"title": "Sonora 80-88",
+"old_tenant": "",
+"current": "Mixed use: business ×5, restaurant, office, medical practice (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 86,
+"id": "RN-079",
+"address": "Cozumel 51",
+"title": "Cozumel 51",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 87,
+"id": "RN-080",
+"address": "Durango 280",
+"title": "Durango 280 (Casona Roma Norte hotel)",
+"old_tenant": "Casona Roma Norte (hotel)",
+"current": "Luxury hotel with 32 rooms and suites and six food and drink venues, including the Holden rooftop; reopened September 2024; Small Luxury Hotels member; Michelin Guide. Restaurants include Aquiles (chef Aquiles Chávez, Michelin Guide), Suchi and La Macaria; Somma Rooftop on the top floor. Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 88,
+"id": "RN-260",
+"address": "Durango 279",
+"title": "Durango 279",
+"old_tenant": "Mia Domenicca (restaurant)",
+"current": "Mediterranean-inspired restaurant (French, Italian, Spanish and Moroccan influences).",
+"current_source": "draft 3"
+},
+{
+"no": 89,
+"id": "RN-081",
+"address": "Durango 272",
+"title": "Durango 272",
+"old_tenant": "",
+"current": "Mixed use: business ×3, restaurant ×2, wholesale office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 90,
+"id": "RN-276",
+"address": "Salamanca 85",
+"title": "Salamanca 85 (Fónico restaurant and Rayo bar)",
+"old_tenant": "Fónico (restaurant)",
+"current": "Contemporary Mexican restaurant.",
+"current_source": "draft 3"
+},
+{
+"no": 91,
+"id": "RN-259",
+"address": "Durango 216",
+"title": "Durango 216",
+"old_tenant": "Palmares (restaurant and roof",
+"current": "Contemporary Mexican restaurant with cocktails and live music on the roof terrace.",
+"current_source": "draft 3"
+},
+{
+"no": 92,
+"id": "RN-082",
+"address": "Medellín 67",
+"title": "Medellín 67",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 93,
+"id": "RN-083",
+"address": "Medellín 65",
+"title": "Medellín 65",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 94,
+"id": "RN-084",
+"address": "Durango 183",
+"title": "Durango 183 (Puni Puni bubble-tea shop)",
+"old_tenant": "",
+"current": "Cartel (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 95,
+"id": "RN-085",
+"address": "Durango 175",
+"title": "Durango 175",
+"old_tenant": "",
+"current": "Instituto De Ayuda Humanitaria Fundacion Guillermo Barroso (association / foundation) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 96,
+"id": "RN-086",
+"address": "Monterrey 80",
+"title": "Monterrey 80 (Diablo Negro mezcal bar)",
+"old_tenant": "",
+"current": "Mixed use: bar, restaurant, beauty salon (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 97,
+"id": "RN-087",
+"address": "Durango 149-151",
+"title": "Durango 149-151",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 98,
+"id": "RN-088",
+"address": "Tonalá 42",
+"title": "Tonalá 42",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 99,
+"id": "RN-089",
+"address": "Tonalá 46",
+"title": "Tonalá 46 (Olivia Foundation private museum)",
+"old_tenant": "Olivia Foundation (private museum)",
+"current": "Exhibition space for the Olivia Foundation's collection of postwar abstract art by women; three floors of galleries, visits by reservation.",
+"current_source": "draft 3"
+},
+{
+"no": 100,
+"id": "RN-090",
+"address": "Tonalá 40-44",
+"title": "Tonalá 40-44",
+"old_tenant": "",
+"current": "Mixed use: language school, café (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 101,
+"id": "RN-091",
+"address": "Jalapa 67",
+"title": "Jalapa 67",
+"old_tenant": "",
+"current": "Residencia Universitaria Femenina (guest house) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 102,
+"id": "RN-092",
+"address": "Jalapa 78",
+"title": "Jalapa 78",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 103,
+"id": "RN-093",
+"address": "Córdoba 69",
+"title": "Córdoba 69 (Artes de México publishers)",
+"old_tenant": "Artes de México",
+"current": "Artes de México (publisher) (per S1, 2015)",
+"current_source": "draft 3"
+},
+{
+"no": 104,
+"id": "RN-094",
+"address": "Córdoba 67",
+"title": "Córdoba 67",
+"old_tenant": "",
+"current": "Arquitectura Bloque Mx (business) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 105,
+"id": "RN-095",
+"address": "Durango 80",
+"title": "Durango 80",
+"old_tenant": "",
+"current": "Dental Durango (medical practice) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 106,
+"id": "RN-096",
+"address": "Morelia 81",
+"title": "Morelia 81",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 107,
+"id": "RN-097",
+"address": "Morelia 85",
+"title": "Morelia 85 (Hamburguesas a la Parrilla)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 108,
+"id": "RN-098",
+"address": "Cerrada de Morelia 9",
+"title": "Cerrada de Morelia 9",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 109,
+"id": "RN-099",
+"address": "Plaza Río de Janeiro 45",
+"title": "Plaza Río de Janeiro 45",
+"old_tenant": "",
+"current": "Papeleria Sulamita (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 110,
+"id": "RN-100",
+"address": "Cerrada Río de Janeiro 9",
+"title": "Cerrada Río de Janeiro 9",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 111,
+"id": "RN-101",
+"address": "Cerrada Río de Janeiro 12 A-B",
+"title": "Cerrada Río de Janeiro 12 A-B",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 112,
+"id": "RN-102",
+"address": "Plaza Río de Janeiro (corner with Durango)",
+"title": "Plaza Río de Janeiro (corner with Durango)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 113,
+"id": "RN-103",
+"address": "Plaza Río de Janeiro 56",
+"title": "Plaza Río de Janeiro 56 (Pigeon restaurant and Bar Las Brujas)",
+"old_tenant": "",
+"current": "Mixed use: restaurant ×2, shop (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 114,
+"id": "RN-104",
+"address": "Plaza Río de Janeiro 50",
+"title": "Plaza Río de Janeiro 50",
+"old_tenant": "",
+"current": "possibly a kebab take-away on the ground floor (unverified): In OpenStreetMap, the Plaza Río de Janeiro 50 footprint contains an unnamed kebab fast-food node. No other source confirms this.",
+"current_source": "web"
+},
+{
+"no": 115,
+"id": "RN-105",
+"address": "Plaza Río de Janeiro 54",
+"title": "Plaza Río de Janeiro 54 (Gran Cantina Filomeno and The Midnight Monkey bar)",
+"old_tenant": "Gran Cantina Filomeno",
+"current": "Cantina and 'museum-restaurant' with more than 150 period pieces, billiard room, cigar room, live trio, mariachi and piano music. Earlier branded Museo Casa Filomeno, it also houses The Lower Deck oyster bar and the Midnight Monkey speakeasy.",
+"current_source": "draft 3"
+},
+{
+"no": 116,
+"id": "RN-256",
+"address": "Colima 428",
+"title": "Colima 428 (Hotel Villa Condesa)",
+"old_tenant": "Hotel Villa Condesa",
+"current": "Small boutique hotel with antique furnishings and a patio; rooms on the ground and first floors of the house.",
+"current_source": "draft 3"
+},
+{
+"no": 117,
+"id": "RN-106",
+"address": "Colima 426",
+"title": "Colima 426",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 118,
+"id": "RN-107",
+"address": "Colima 421",
+"title": "Colima 421",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 119,
+"id": "RN-108",
+"address": "Guadalajara 103",
+"title": "Guadalajara 103 (Condesa DF hotel)",
+"old_tenant": "Hotel Condesa DF",
+"current": "Hotel Condesa DF (address Av. Veracruz 102), per S1 and design-hotel listings",
+"current_source": "draft 3"
+},
+{
+"no": 120,
+"id": "RN-109",
+"address": "Colima 422",
+"title": "Colima 422",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 121,
+"id": "RN-110",
+"address": "Guadalajara 104",
+"title": "Guadalajara 104",
+"old_tenant": "Fideicomiso Archivos Plutarco",
+"current": "Seat of the historical archive of Plutarco Elías Calles and Fernando Torreblanca; the garden is used for cultural and social events.",
+"current_source": "draft 3"
+},
+{
+"no": 122,
+"id": "RN-111",
+"address": "Colima 382",
+"title": "Colima 382",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 123,
+"id": "RN-112",
+"address": "Parque España 3",
+"title": "Parque España 3 (Pizza del Perro Negro)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 124,
+"id": "RN-113",
+"address": "Colima 378",
+"title": "Colima 378 (Kura restaurant)",
+"old_tenant": "Kura (izakaya)",
+"current": "Japanese izakaya with robata grill, sake and cocktails.",
+"current_source": "draft 3"
+},
+{
+"no": 125,
+"id": "RN-114",
+"address": "Colima 370",
+"title": "Colima 370",
+"old_tenant": "",
+"current": "Mixed use: shop, beauty salon (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 126,
+"id": "RN-115",
+"address": "Colima 365",
+"title": "Colima 365",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 127,
+"id": "RN-116",
+"address": "Colima (corner with Salamanca)",
+"title": "Colima (corner with Salamanca)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 128,
+"id": "RN-117",
+"address": "Oaxaca 96",
+"title": "Oaxaca 96",
+"old_tenant": "",
+"current": "Mixed use: wholesale office ×2, office ×2, business (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 129,
+"id": "RN-118",
+"address": "Colima 329-331",
+"title": "Colima 329-331",
+"old_tenant": "",
+"current": "Mixed use: office ×2, law firm, medical practice, business (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 130,
+"id": "RN-119",
+"address": "Colima 327",
+"title": "Colima 327",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 131,
+"id": "RN-120",
+"address": "Colima 325",
+"title": "Colima 325",
+"old_tenant": "",
+"current": "Agencia De Diseño De Software Sofware & Tech (office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 132,
+"id": "RN-121",
+"address": "Colima 323",
+"title": "Colima 323",
+"old_tenant": "",
+"current": "Mixed use: beauty salon ×3, wholesale office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 133,
+"id": "RN-122",
+"address": "Colima 315",
+"title": "Colima 315",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 134,
+"id": "RN-123",
+"address": "Medellín (corner with Colima)",
+"title": "Medellín (corner with Colima)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 135,
+"id": "RN-124",
+"address": "Colima 286",
+"title": "Colima 286",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 136,
+"id": "RN-125",
+"address": "Insurgentes (corner with Colima)",
+"title": "Insurgentes (corner with Colima)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 137,
+"id": "RN-126",
+"address": "Colima 264",
+"title": "Colima 264",
+"old_tenant": "",
+"current": "Mixed use: shop ×2, wholesale office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 138,
+"id": "RN-127",
+"address": "Colima 256",
+"title": "Colima 256 (Huset restaurant)",
+"old_tenant": "Huset (restaurant)",
+"current": "Huset Cocina de Campo, seasonal wood-fired cooking with a garden terrace and rooftop herb garden.",
+"current_source": "draft 3"
+},
+{
+"no": 139,
+"id": "RN-128",
+"address": "Colima 249 A y B",
+"title": "Colima 249 A y B",
+"old_tenant": "Originario (design store), at 249",
+"current": "Store and alternative platform for Mexican design, curated by Andrés Gutiérrez, with five constantly changing rooms.",
+"current_source": "draft 3"
+},
+{
+"no": 140,
+"id": "RN-129",
+"address": "Colima 242-248",
+"title": "Colima 242-248",
+"old_tenant": "",
+"current": "Notaria Numero 78 Y 108 (notary) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 141,
+"id": "RN-130",
+"address": "Tonalá 55",
+"title": "Tonalá 55",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 142,
+"id": "RN-131",
+"address": "Tonalá 51",
+"title": "Tonalá 51 (MUCA Roma museum, UNAM)",
+"old_tenant": "MUCA Roma -UNAM museum)",
+"current": "Museo Universitario de Ciencias y Arte Roma, UNAM; exhibitions on two floors, café and art bookshop.",
+"current_source": "draft 3"
+},
+{
+"no": 143,
+"id": "RN-284",
+"address": "Tonalá 53",
+"title": "Tonalá 53 (La Valise hotel)",
+"old_tenant": "La Valise Mexico City (hotel)",
+"current": "Eight-suite boutique hotel above a shop, project of Yves Naman with designer Emmanuel Picault; one Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 144,
+"id": "RN-255",
+"address": "Colima 236",
+"title": "Colima 236 (Nima Local House hotel)",
+"old_tenant": "Nima Local House (hotel)",
+"current": "Very small boutique hotel and spa (four rooms) with contemporary interiors; one Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 145,
+"id": "RN-132",
+"address": "Colima 235",
+"title": "Colima 235 (El Cortés hotel; Lotti restaurant)",
+"old_tenant": "El Cortés (hotel); Lotti (restaurant)",
+"current": "Relais & Châteaux boutique hotel with antique furniture, tapestries and family portraits; rooms open onto balconies and terraces; Lotti restaurant by Swiss chef Luc Liebster. Lotti: in the Michelin Guide.",
+"current_source": "draft 3"
+},
+{
+"no": 146,
+"id": "RN-133",
+"address": "Colima 233",
+"title": "Colima 233",
+"old_tenant": "",
+"current": "under renovation / works suspended (PAOT, 2024): PAOT lists Colima 233 and 235 as a SEDUVI-catalogued heritage building. A precautionary measure was imposed on 22 Jul 2024 over interior partial demolition done without INBAL/SEDUVI documents (file PAOT-2024-4873-SOT-1374). The final use is unknown. A 2025 Jornada piece about a hotel land-use change in Roma came up in the same search but could not be opened, so it may or may not concern this lot.",
+"current_source": "web"
+},
+{
+"no": 147,
+"id": "RN-134",
+"address": "Tonalá 52",
+"title": "Tonalá 52",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 148,
+"id": "RN-135",
+"address": "Colima 229",
+"title": "Colima 229",
+"old_tenant": "",
+"current": "Jardin De Niños Maria Guadalupe De Alba (kindergarten) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 149,
+"id": "RN-136",
+"address": "Colima 230-232",
+"title": "Colima 230-232",
+"old_tenant": "",
+"current": "Metate (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 150,
+"id": "RN-137",
+"address": "Colima 224-234",
+"title": "Colima 224-234",
+"old_tenant": "",
+"current": "Mixed use: café ×4, shop ×2, kindergarten, restaurant (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 151,
+"id": "RN-138",
+"address": "Colima 210-212",
+"title": "Colima 210-212",
+"old_tenant": "",
+"current": "Mixed use: office, beauty salon (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 152,
+"id": "RN-139",
+"address": "Colima 208",
+"title": "Colima 208",
+"old_tenant": "",
+"current": "Metate 2 (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 153,
+"id": "RN-140",
+"address": "Colima (corner with Jalapa)",
+"title": "Colima (corner with Jalapa)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 154,
+"id": "RN-141",
+"address": "Jalapa 82",
+"title": "Jalapa 82",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 155,
+"id": "RN-142",
+"address": "Jalapa 94",
+"title": "Jalapa 94 (Centro Budista de la Ciudad de México)",
+"old_tenant": "Centro Budista",
+"current": "Buddhist centre (per S2, 2014)",
+"current_source": "draft 3"
+},
+{
+"no": 156,
+"id": "RN-143",
+"address": "Jalapa 90",
+"title": "Jalapa 90",
+"old_tenant": "Almacén Monstruo de Agua / Patio",
+"current": "Taproom of the agroecological craft brewery Monstruo de Agua, with a hidden planted patio.",
+"current_source": "draft 3"
+},
+{
+"no": 157,
+"id": "RN-144",
+"address": "Colima 198",
+"title": "Colima 198",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 158,
+"id": "RN-145",
+"address": "Colima 197",
+"title": "Colima 197",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 159,
+"id": "RN-146",
+"address": "Colima 196",
+"title": "Colima 196",
+"old_tenant": "former Salón de la Plástica Mexicana",
+"current": "Vacated by the Salón de la Plástica Mexicana (deadline 30 Apr 2026); present use unverified",
+"current_source": "draft 3"
+},
+{
+"no": 160,
+"id": "RN-147",
+"address": "Colima 194",
+"title": "Colima 194 (Centro Gallego de México)",
+"old_tenant": "Centro Gallego de México",
+"current": "Centro Gallego de México (per S2, 2015) — current use unverified",
+"current_source": "draft 3"
+},
+{
+"no": 161,
+"id": "RN-148",
+"address": "Orizaba 93",
+"title": "Orizaba 93 (Casa Tibet México cultural centre)",
+"old_tenant": "",
+"current": "Fundacion Cultural Casa Tibet (association / foundation) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 162,
+"id": "RN-149",
+"address": "Orizaba 95",
+"title": "Orizaba 95 (Brick Hotel and Cerrajería restaurant)",
+"old_tenant": "Brick Hotel",
+"current": "Luxury boutique hotel with restaurant, listed in the Michelin Guide; at the corner of Orizaba and Tabasco. Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 163,
+"id": "RN-150",
+"address": "Orizaba 87",
+"title": "Orizaba 87 (Butcher & Sons restaurant)",
+"old_tenant": "Butcher & Sons (burger restaurant)",
+"current": "Burger restaurant whose burgers are named after singers.",
+"current_source": "draft 3"
+},
+{
+"no": 164,
+"id": "RN-151",
+"address": "Orizaba 92",
+"title": "Orizaba 92",
+"old_tenant": "",
+"current": "Mixed use: shop, hotel (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 165,
+"id": "RN-152",
+"address": "Colima 168",
+"title": "Colima 168 (Blanco Colima restaurant)",
+"old_tenant": "Blanco Colima (restaurant and event",
+"current": "Mexican-European restaurant and event venue with garden tables and private rooms.",
+"current_source": "draft 3"
+},
+{
+"no": 166,
+"id": "RN-254",
+"address": "Colima 166",
+"title": "Colima 166 (Rosetta restaurant)",
+"old_tenant": "Rosetta (restaurant); Salón Rosetta",
+"current": "Elena Reygadas' restaurant, opened February 2010; one Michelin star (2024). Salón Rosetta, a bar, occupies the second floor.",
+"current_source": "draft 3"
+},
+{
+"no": 167,
+"id": "RN-153",
+"address": "Colima 162-164",
+"title": "Colima 162-164",
+"old_tenant": "Colima 162 (fashion boutique)",
+"current": "210 m2 luxury concept store on the first floor, designed by Laura Vela Lasagabaster and Manu Bañó with recycled copper fittings.",
+"current_source": "draft 3"
+},
+{
+"no": 168,
+"id": "RN-154",
+"address": "Colima 159",
+"title": "Colima 159",
+"old_tenant": "Casa Basalta: MAIA Contemporary",
+"current": "Mixed cultural complex with MAIA Contemporary gallery, an events forum, a meditation centre, restaurants (including Umai, with a terrace), shops and offices.",
+"current_source": "draft 3"
+},
+{
+"no": 169,
+"id": "RN-155",
+"address": "Colima 145",
+"title": "Colima 145 (MODO Museo del Objeto)",
+"old_tenant": "Museo del Objeto del Objeto -MODO-",
+"current": "UNAM-affiliated design and material culture museum opened in 2010, with a collection of everyday objects started by Bruno Newman.",
+"current_source": "draft 3"
+},
+{
+"no": 170,
+"id": "RN-156",
+"address": "Córdoba (corner with Colima)",
+"title": "Córdoba (corner with Colima)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 171,
+"id": "RN-157",
+"address": "Colima 125",
+"title": "Colima 125",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 172,
+"id": "RN-158",
+"address": "Colima 123",
+"title": "Colima 123",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 173,
+"id": "RN-159",
+"address": "Colima (corner with Mérida)",
+"title": "Colima (corner with Mérida)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 174,
+"id": "RN-160",
+"address": "Mérida 90",
+"title": "Mérida 90",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 175,
+"id": "RN-161",
+"address": "Colima 98-100",
+"title": "Colima 98-100",
+"old_tenant": "",
+"current": "Mixed use: shop ×2 (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 176,
+"id": "RN-162",
+"address": "Colima 11-17",
+"title": "Colima 11-17",
+"old_tenant": "",
+"current": "Alquimia Mexicana (wholesale office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 177,
+"id": "RN-163",
+"address": "Colima 77",
+"title": "Colima 77",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 178,
+"id": "RN-164",
+"address": "Colima 75",
+"title": "Colima 75",
+"old_tenant": "Nymphaea Spa (spa)",
+"current": "Spa offering massages, facials and cosmetic treatments.",
+"current_source": "draft 3"
+},
+{
+"no": 179,
+"id": "RN-165",
+"address": "Colima 76",
+"title": "Colima 76",
+"old_tenant": "Casa Pilates (studio)",
+"current": "Boutique pilates reformer and yoga studio.",
+"current_source": "draft 3"
+},
+{
+"no": 180,
+"id": "RN-166",
+"address": "Tabasco 337",
+"title": "Tabasco 337",
+"old_tenant": "",
+"current": "Tacos De Guisado Sin Nombre (restaurant) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 181,
+"id": "RN-167",
+"address": "Tabasco 330",
+"title": "Tabasco 330 (Universidad de Londres)",
+"old_tenant": "",
+"current": "Universidad De Londres (university) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 182,
+"id": "RN-168",
+"address": "Tabasco 329",
+"title": "Tabasco 329",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 183,
+"id": "RN-169",
+"address": "Valladolid 100",
+"title": "Valladolid 100 (Maison México Roma hotel; Xuna restaurant)",
+"old_tenant": "Maison México Roma (hotel);",
+"current": "Luxury hotel by Lomas Hospitality, opened June 2024; nine rooms in the restored house and sixteen in a new building; restaurants Conchita Clamont and Octavia. Corner of Tabasco. Michelin also lists the restaurant Xuna at Valladolid 96. Xuna: in the Michelin Guide.",
+"current_source": "draft 3"
+},
+{
+"no": 184,
+"id": "RN-170",
+"address": "Tabasco 313",
+"title": "Tabasco 313",
+"old_tenant": "",
+"current": "Rinconcito De La Roma (restaurant) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 185,
+"id": "RN-171",
+"address": "Tabasco 308",
+"title": "Tabasco 308",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 186,
+"id": "RN-172",
+"address": "Tabasco 296-298",
+"title": "Tabasco 296-298",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 187,
+"id": "RN-173",
+"address": "Tabasco 291",
+"title": "Tabasco 291 (Maison du Comte hotel)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 188,
+"id": "RN-174",
+"address": "Tabasco 290",
+"title": "Tabasco 290",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 189,
+"id": "RN-175",
+"address": "Tabasco 293",
+"title": "Tabasco 293",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 190,
+"id": "RN-176",
+"address": "Medellín 95",
+"title": "Medellín 95",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 191,
+"id": "RN-177",
+"address": "Medellín 86",
+"title": "Medellín 86",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 192,
+"id": "RN-178",
+"address": "Tabasco 281",
+"title": "Tabasco 281",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 193,
+"id": "RN-179",
+"address": "Insurgentes (corner with Tabasco)",
+"title": "Insurgentes (corner with Tabasco)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 194,
+"id": "RN-279",
+"address": "Tabasco 198",
+"title": "Tabasco 198 (Arróniz Arte Contemporáneo gallery)",
+"old_tenant": "Arróniz Arte Contemporáneo",
+"current": "Contemporary art gallery founded about 2006, which moved here from Plaza Río de Janeiro 53; its 20th anniversary show (2026) was built around the house's history.",
+"current_source": "draft 3"
+},
+{
+"no": 195,
+"id": "RN-180",
+"address": "Tabasco 133",
+"title": "Tabasco 133",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 196,
+"id": "RN-266",
+"address": "Mérida 109",
+"title": "Mérida 109 (Casa Franca jazz bar and Franca Bistro)",
+"old_tenant": "Casa Franca (cocktail bar and jazz",
+"current": "Cocktail bar with live jazz, blues and funk in several vintage-style rooms; corner of Álvaro Obregón.",
+"current_source": "draft 3"
+},
+{
+"no": 197,
+"id": "RN-181",
+"address": "Mérida 98",
+"title": "Mérida 98 (Foro Lenin theatre)",
+"old_tenant": "",
+"current": "Clases De Idiomas Centro Mexicano De Estudios Culturales Y Sociales (language school) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 198,
+"id": "RN-182",
+"address": "Tabasco 67",
+"title": "Tabasco 67 (Casa Seis Siete guesthouse)",
+"old_tenant": "Casa Seis Siete",
+"current": "Five-room boutique hotel decorated with selected artwork and furniture.",
+"current_source": "draft 3"
+},
+{
+"no": 199,
+"id": "RN-183",
+"address": "Tabasco 58",
+"title": "Tabasco 58",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 200,
+"id": "RN-184",
+"address": "Álvaro Obregón 291",
+"title": "Álvaro Obregón 291",
+"old_tenant": "",
+"current": "Bombay Level B (restaurant) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 201,
+"id": "RN-185",
+"address": "Yucatán 16",
+"title": "Yucatán 16",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 202,
+"id": "RN-186",
+"address": "Medellín 111",
+"title": "Medellín 111",
+"old_tenant": "",
+"current": "Escuela De Gastronomia Sin Nombre (school) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 203,
+"id": "RN-187",
+"address": "Medellín 113",
+"title": "Medellín 113",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 204,
+"id": "RN-188",
+"address": "Medellín (corner with Yucatán)",
+"title": "Medellín (corner with Yucatán)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 205,
+"id": "RN-189",
+"address": "Monterrey 111",
+"title": "Monterrey 111",
+"old_tenant": "",
+"current": "Libreria Anticuaria Atraves Del Espejo (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 206,
+"id": "RN-190",
+"address": "Álvaro Obregón 196",
+"title": "Álvaro Obregón 196",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 207,
+"id": "RN-264",
+"address": "Monterrey 116",
+"title": "Monterrey 116 (Casa Virginia restaurant)",
+"old_tenant": "Casa Virginia (restaurant); Delirio",
+"current": "Restaurant by chefs Mónica and Micaela Patiño on the upper floor, corner of Álvaro Obregón; Delirio deli on the ground floor.",
+"current_source": "draft 3"
+},
+{
+"no": 208,
+"id": "RN-191",
+"address": "Monterrey 122",
+"title": "Monterrey 122 (Krikas (Don Beto) restaurant)",
+"old_tenant": "",
+"current": "Mixed use: restaurant ×2, office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 209,
+"id": "RN-192",
+"address": "Álvaro Obregón (corner with Tonalá)",
+"title": "Álvaro Obregón (corner with Tonalá)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 210,
+"id": "RN-193",
+"address": "Tonalá 92",
+"title": "Tonalá 92",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 211,
+"id": "RN-194",
+"address": "Álvaro Obregón 161",
+"title": "Álvaro Obregón 161",
+"old_tenant": "",
+"current": "Representacion Del Gobierno Del Estado De Quintana Roo En El Distrito Federal (government office) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 212,
+"id": "RN-195",
+"address": "Álvaro Obregón 153",
+"title": "Álvaro Obregón 153",
+"old_tenant": "",
+"current": "Mixed use: shop, cultural venue (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 213,
+"id": "RN-196",
+"address": "Álvaro Obregón 139",
+"title": "Álvaro Obregón 139",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 214,
+"id": "RN-197",
+"address": "Álvaro Obregón (corner with Jalapa)",
+"title": "Álvaro Obregón (corner with Jalapa)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 215,
+"id": "RN-198",
+"address": "Álvaro Obregón 126",
+"title": "Álvaro Obregón 126",
+"old_tenant": "Patio Aurora -Italian",
+"current": "Italian restaurant and cocktail bar set in the patio of the house.",
+"current_source": "draft 3"
+},
+{
+"no": 216,
+"id": "RN-199",
+"address": "Álvaro Obregón 130",
+"title": "Álvaro Obregón 130 (El Parián shopping arcade)",
+"old_tenant": "El Parián",
+"current": "Shopping arcade (clothing, design studios, restaurants) with apartments above ✓",
+"current_source": "draft 3"
+},
+{
+"no": 217,
+"id": "RN-200",
+"address": "Orizaba 101",
+"title": "Orizaba 101",
+"old_tenant": "",
+"current": "Mixed use: boutiques, galleries, cafés on ground floor; apartments and offices above ✓",
+"current_source": "draft 3"
+},
+{
+"no": 218,
+"id": "RN-201",
+"address": "Álvaro Obregón (corner with Orizaba)",
+"title": "Álvaro Obregón (corner with Orizaba)",
+"old_tenant": "",
+"current": "possibly Marcello (restaurant) on the ground floor (unverified): Food & Pleasure gives Marcello's address as Av. Álvaro Obregón 110, corner of Orizaba. The thesis does not say which of the four corners is meant, so this is not confirmed. OSM also shows El Diez restaurant at that intersection.",
+"current_source": "web"
+},
+{
+"no": 219,
+"id": "RN-202",
+"address": "Álvaro Obregón 110",
+"title": "Álvaro Obregón 110 (Marcello restaurant)",
+"old_tenant": "Marcello -Italian restaurant)",
+"current": "Family-style Italian restaurant themed on the 1960s, known for a giant pistachio gelato.",
+"current_source": "draft 3"
+},
+{
+"no": 220,
+"id": "RN-203",
+"address": "Álvaro Obregón 99",
+"title": "Álvaro Obregón 99 (Casa Lamm cultural centre)",
+"old_tenant": "Centro de Cultura Casa Lamm;",
+"current": "Mixed use: cultural venue, restaurant, public institution office (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 221,
+"id": "RN-204",
+"address": "Álvaro Obregón 100",
+"title": "Álvaro Obregón 100 (Taquería Orinoco)",
+"old_tenant": "Burger Bar Joint",
+"current": "Burger restaurant, Roma branch.",
+"current_source": "draft 3"
+},
+{
+"no": 222,
+"id": "RN-205",
+"address": "Álvaro Obregón 85",
+"title": "Álvaro Obregón 85 (Peltre café)",
+"old_tenant": "Peltre (lonchería)",
+"current": "Breakfast and lunch counter, part of a small local chain.",
+"current_source": "draft 3"
+},
+{
+"no": 223,
+"id": "RN-206",
+"address": "Córdoba 112",
+"title": "Córdoba 112",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 224,
+"id": "RN-207",
+"address": "Álvaro Obregón 71-73",
+"title": "Álvaro Obregón 71-73 (Casa del Poeta Ramón López Velarde)",
+"old_tenant": "Casa del Poeta Ramón",
+"current": "Casa del Poeta Ramón López Velarde (museum/cultural centre; Café-Bar Las Hormigas) ✓",
+"current_source": "draft 3"
+},
+{
+"no": 225,
+"id": "RN-208",
+"address": "Álvaro Obregón 60",
+"title": "Álvaro Obregón 60 (Bisquets Obregón restaurant)",
+"old_tenant": "",
+"current": "Bísquets Obregón restaurant (per S2)",
+"current_source": "draft 3"
+},
+{
+"no": 226,
+"id": "RN-209",
+"address": "Álvaro Obregón 45-47",
+"title": "Álvaro Obregón 45-47",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 227,
+"id": "RN-210",
+"address": "Álvaro Obregón 31",
+"title": "Álvaro Obregón 31 (Gardela and La Docena restaurants)",
+"old_tenant": "La Docena (oyster bar and",
+"current": "Seafood and raw bar (oysters, clams, aguachile).",
+"current_source": "draft 3"
+},
+{
+"no": 228,
+"id": "RN-211",
+"address": "Frontera (corner with Álvaro Obregón)",
+"title": "Frontera (corner with Álvaro Obregón)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 229,
+"id": "RN-251",
+"address": "Chihuahua 194",
+"title": "Chihuahua 194 (Casa Estudio Leonora Carrington museum, UAM)",
+"old_tenant": "Casa Estudio Leonora Carrington",
+"current": "Owned by the Universidad Autónoma Metropolitana since 2017; opened as a house museum, but in October 2024 UAM said it would operate as a documentation and research centre.",
+"current_source": "draft 3"
+},
+{
+"no": 230,
+"id": "RN-212",
+"address": "Chihuahua 129",
+"title": "Chihuahua 129",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 231,
+"id": "RN-213",
+"address": "Orizaba 131",
+"title": "Orizaba 131 (Madre Café restaurant)",
+"old_tenant": "Madre Café and Madre Roof",
+"current": "Madre Café (international menu, garden patio) on the lower floors and Madre Roof (restaurant and cocktail bar) on the roof, in the same casona; reported 2021-2025.",
+"current_source": "draft 3"
+},
+{
+"no": 232,
+"id": "RN-214",
+"address": "Orizaba 126",
+"title": "Orizaba 126 (Instituto Renacimiento school)",
+"old_tenant": "Instituto Renacimiento",
+"current": "Instituto Renacimiento (Mercedarian school) ✓",
+"current_source": "draft 3"
+},
+{
+"no": 233,
+"id": "RN-215",
+"address": "Chihuahua 85-87",
+"title": "Chihuahua 85-87",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 234,
+"id": "RN-257",
+"address": "Córdoba 140",
+"title": "Córdoba 140 (Esca restaurant)",
+"old_tenant": "Esca (restaurant)",
+"current": "Italian seafood restaurant with an open kitchen, garden and upstairs bar; about 70 per cent of the menu is fish and seafood.",
+"current_source": "draft 3"
+},
+{
+"no": 235,
+"id": "RN-216",
+"address": "Chihuahua 77",
+"title": "Chihuahua 77",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 236,
+"id": "RN-217",
+"address": "Chihuahua 78",
+"title": "Chihuahua 78 (Cursi steakhouse)",
+"old_tenant": "Casa Prunes (restaurant and",
+"current": "Casa Prunes (café) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 237,
+"id": "RN-262",
+"address": "Guanajuato 239",
+"title": "Guanajuato 239 (Jazzatlán Capital and Chetito restaurants)",
+"old_tenant": "Jazzatlán Capital (jazz club)",
+"current": "Jazz and world-music club, an offshoot of Jazzatlán in San Pedro Cholula; Club upstairs and Salón downstairs.",
+"current_source": "draft 3"
+},
+{
+"no": 238,
+"id": "RN-218",
+"address": "Guanajuato 226",
+"title": "Guanajuato 226",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 239,
+"id": "RN-219",
+"address": "Guanajuato 178",
+"title": "Guanajuato 178",
+"old_tenant": "",
+"current": "Neurologia Victor Frutis Slava (medical practice) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 240,
+"id": "RN-280",
+"address": "Tonalá 124",
+"title": "Tonalá 124",
+"old_tenant": "Alfarera (café, ceramics studio and art",
+"current": "Coffee roaster, café and cultural space shared with the projects Cara de Planta and Cara de Taza; ceramics workshops in the patio; opened 2026.",
+"current_source": "draft 3"
+},
+{
+"no": 241,
+"id": "RN-261",
+"address": "Guanajuato 199",
+"title": "Guanajuato 199 (Casa Goliana hotel)",
+"old_tenant": "Casa Goliana (boutique hotel)",
+"current": "Bed and breakfast with eight rooms, listed in the Michelin Guide.",
+"current_source": "draft 3"
+},
+{
+"no": 242,
+"id": "RN-258",
+"address": "Córdoba 146",
+"title": "Córdoba 146",
+"old_tenant": "Casa MoMa",
+"current": "Mediterranean restaurant with Mexican ingredients, pastas and pizzas.",
+"current_source": "draft 3"
+},
+{
+"no": 243,
+"id": "RN-220",
+"address": "Guanajuato 60",
+"title": "Guanajuato 60",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 244,
+"id": "RN-221",
+"address": "Guanajuato 58-60",
+"title": "Guanajuato 58-60",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 245,
+"id": "RN-222",
+"address": "Guanajuato 54",
+"title": "Guanajuato 54",
+"old_tenant": "Alakazam (bar)",
+"current": "Vegan Middle Eastern bar with natural wines and live events.",
+"current_source": "draft 3"
+},
+{
+"no": 246,
+"id": "RN-223",
+"address": "Guanajuato 52-56",
+"title": "Guanajuato 52-56",
+"old_tenant": "",
+"current": "Mixed use: restaurant ×3, wholesale office, business (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 247,
+"id": "RN-224",
+"address": "Plaza Luis Cabrera 9",
+"title": "Plaza Luis Cabrera 9 (Universidad de Londres)",
+"old_tenant": "Universidad de Londres",
+"current": "Universidad de Londres (per S2, 2014)",
+"current_source": "draft 3"
+},
+{
+"no": 248,
+"id": "RN-225",
+"address": "Plaza Luis Cabrera 19",
+"title": "Plaza Luis Cabrera 19",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 249,
+"id": "RN-226",
+"address": "Plaza Luis Cabrera 10",
+"title": "Plaza Luis Cabrera 10",
+"old_tenant": "",
+"current": "Residential (about 25 apartments, per 2020s real-estate listing) ✓",
+"current_source": "draft 3"
+},
+{
+"no": 250,
+"id": "RN-287",
+"address": "Zacatecas 126",
+"title": "Zacatecas 126 (Broka Bistrot and Si Mon Vinos Mexicanos restaurants)",
+"old_tenant": "Broka Bistrot (restaurant)",
+"current": "Seasonal, local-produce restaurant behind a large gate; hosts the weekly Mercado Granjeros La Lechuza farmers' market on Wednesdays.",
+"current_source": "draft 3"
+},
+{
+"no": 251,
+"id": "RN-227",
+"address": "Zacatecas 120",
+"title": "Zacatecas 120 (Universidad de la Comunicación)",
+"old_tenant": "Universidad de la Comunicación",
+"current": "Universidad de la Comunicación (university): OpenStreetMap places the Universidad de la Comunicación (UC) at Calle Zacatecas 120, Roma Norte, and links its Wikidata/Wikipedia entries. This matches the thesis name.",
+"current_source": "web"
+},
+{
+"no": 252,
+"id": "RN-228",
+"address": "Orizaba 151",
+"title": "Orizaba 151",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 253,
+"id": "RN-289",
+"address": "Zacatecas 98",
+"title": "Zacatecas 98 (Cancino pizzeria)",
+"old_tenant": "Cancino Luis Cabrera (pizzeria)",
+"current": "Pizzeria with pavement tables, beside Plaza Luis Cabrera.",
+"current_source": "draft 3"
+},
+{
+"no": 254,
+"id": "RN-229",
+"address": "Zacatecas 94",
+"title": "Zacatecas 94 (Casa Rafael Galván cultural centre, UAM)",
+"old_tenant": "Casa Rafael Galván -UAM cultural",
+"current": "UAM cultural centre with two auditoriums, an exhibition gallery and a media lab; talks, book launches, seminars and workshops.",
+"current_source": "draft 3"
+},
+{
+"no": 255,
+"id": "RN-230",
+"address": "Zacatecas 90",
+"title": "Zacatecas 90",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 256,
+"id": "RN-231",
+"address": "Córdoba 153",
+"title": "Córdoba 153",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 257,
+"id": "RN-288",
+"address": "Zacatecas 39",
+"title": "Zacatecas 39 (Foro Indie Rocks concert venue)",
+"old_tenant": "Foro Indie Rocks (concert venue)",
+"current": "Live music venue for indie and alternative rock, with a large courtyard and indoor halls.",
+"current_source": "draft 3"
+},
+{
+"no": 258,
+"id": "RN-285",
+"address": "Yucatán 84",
+"title": "Yucatán 84 (Páramo, El Parnita and Expendio de Maíz restaurants)",
+"old_tenant": "Salón Palomilla (cocktail bar), second",
+"current": "Cocktail bar with food on the second floor; a hole in the ceiling was reworked by designer and architect Martina D'Acosta.",
+"current_source": "draft 3"
+},
+{
+"no": 259,
+"id": "RN-233",
+"address": "Querétaro 110",
+"title": "Querétaro 110 (Monte Sinaí synagogue)",
+"old_tenant": "",
+"current": "Synagogue / Alianza Monte Sinaí (per S2, 2014)",
+"current_source": "draft 3"
+},
+{
+"no": 260,
+"id": "RN-234",
+"address": "Querétaro 109",
+"title": "Querétaro 109",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 261,
+"id": "RN-235",
+"address": "Querétaro 84",
+"title": "Querétaro 84 (Universidad de Londres)",
+"old_tenant": "",
+"current": "Universidad De Londres (university) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 262,
+"id": "RN-236",
+"address": "Querétaro 77",
+"title": "Querétaro 77",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 263,
+"id": "RN-268",
+"address": "Mérida 186",
+"title": "Mérida 186 (M.N. Roy club)",
+"old_tenant": "M.N. Roy (club)",
+"current": "Members-oriented electronic music club; interior lined with geometric wooden blocks.",
+"current_source": "draft 3"
+},
+{
+"no": 264,
+"id": "RN-237",
+"address": "San Luis Potosí (corner with Insurgentes)",
+"title": "San Luis Potosí (corner with Insurgentes) (Plaza Insurgentes and Sears)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 265,
+"id": "RN-238",
+"address": "Insurgentes (corner with San Luis Potosí)",
+"title": "Insurgentes (corner with San Luis Potosí) (Plaza Insurgentes and Sears)",
+"old_tenant": "Sears /",
+"current": "Plaza Insurgentes shopping centre anchored by Sears (Wikipedia)",
+"current_source": "draft 3"
+},
+{
+"no": 266,
+"id": "RN-239",
+"address": "San Luis Potosí 191",
+"title": "San Luis Potosí 191 (Universidad de Londres)",
+"old_tenant": "",
+"current": "Universidad Londres (university) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 267,
+"id": "RN-265",
+"address": "Monterrey 204",
+"title": "Monterrey 204 (Galanga Thai House restaurant)",
+"old_tenant": "Galanga Thai House (restaurant)",
+"current": "Thai restaurant led by chef Somsri Raksamran, with a planted garden; Michelin Bib Gourmand.",
+"current_source": "draft 3"
+},
+{
+"no": 268,
+"id": "RN-240",
+"address": "San Luis Potosí 154",
+"title": "San Luis Potosí 154 (Universidad de Londres)",
+"old_tenant": "Universidad de Londres, San",
+"current": "Upper-secondary (preparatoria) campus and admissions office of the private Universidad de Londres, founded 1980.",
+"current_source": "draft 3"
+},
+{
+"no": 269,
+"id": "RN-286",
+"address": "Yucatán 96",
+"title": "Yucatán 96 (Maison Celeste hotel)",
+"old_tenant": "Maison Celeste (hotel and gallery)",
+"current": "Five-room art-focused boutique hotel with exhibitions, pop-up shops and event rooms on the ground floor; one Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 270,
+"id": "RN-269",
+"address": "Orizaba 177",
+"title": "Orizaba 177 (Terreno Baldío Arte gallery)",
+"old_tenant": "Terreno Baldío Arte (gallery)",
+"current": "Contemporary art gallery, workshop and publisher founded in 2005 out of Javier Marín's studio; also curates the screens on Plaza Luis Cabrera.",
+"current_source": "draft 3"
+},
+{
+"no": 271,
+"id": "RN-241",
+"address": "Orizaba 189",
+"title": "Orizaba 189 (Universidad de Londres)",
+"old_tenant": "",
+"current": "Universidad De Londres (school) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 272,
+"id": "RN-242",
+"address": "Orizaba (corner with San Luis Potosí)",
+"title": "Orizaba (corner with San Luis Potosí)",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 273,
+"id": "RN-243",
+"address": "San Luis Potosí 64",
+"title": "San Luis Potosí 64",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 274,
+"id": "RN-244",
+"address": "San Luis Potosí 12-16",
+"title": "San Luis Potosí 12-16",
+"old_tenant": "",
+"current": "Mixed use: restaurant ×2, business (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 275,
+"id": "RN-245",
+"address": "Chiapas 84",
+"title": "Chiapas 84",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 276,
+"id": "RN-281",
+"address": "Tonalá 138",
+"title": "Tonalá 138 (Santa Casa hotel)",
+"old_tenant": "Santa Casa (boutique hotel)",
+"current": "21-room hotel listed in the Michelin Guide, with a courtyard and rooftop terrace.",
+"current_source": "draft 3"
+},
+{
+"no": 277,
+"id": "RN-282",
+"address": "Tonalá 144",
+"title": "Tonalá 144 (Bacanora Terraza restaurant and La Taque gastropub)",
+"old_tenant": "Casa Flama",
+"current": "Spanish-inspired tapas and wine restaurant by chef Diego Nosti.",
+"current_source": "draft 3"
+},
+{
+"no": 278,
+"id": "RN-263",
+"address": "Jalapa 208",
+"title": "Jalapa 208 (Ignacia Guest House)",
+"old_tenant": "Ignacia Guest House (hotel)",
+"current": "Five-room guesthouse with a garden of orange trees; address given as Jalapa 208-B. Michelin Key.",
+"current_source": "draft 3"
+},
+{
+"no": 279,
+"id": "RN-246",
+"address": "Orizaba 211-213",
+"title": "Orizaba 211-213",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 280,
+"id": "RN-247",
+"address": "Coahuila 207",
+"title": "Coahuila 207",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+},
+{
+"no": 281,
+"id": "RN-248",
+"address": "Coahuila 129-131",
+"title": "Coahuila 129-131",
+"old_tenant": "",
+"current": "La Vintaje (shop) (INEGI business directory, May 2026)",
+"current_source": "INEGI"
+},
+{
+"no": 282,
+"id": "RN-270",
+"address": "Orizaba 219",
+"title": "Orizaba 219 (Kiin Thai-Viet Eatery)",
+"old_tenant": "Somsaa -Asian restaurant)",
+"current": "Asian restaurant with an afternoon tea service.",
+"current_source": "draft 3"
+},
+{
+"no": 283,
+"id": "RN-249",
+"address": "Coahuila 65",
+"title": "Coahuila 65 (Maque café)",
+"old_tenant": "Maque (bakery and café)",
+"current": "Roma Norte branch of a family bakery founded almost 40 years ago.",
+"current_source": "draft 3"
+},
+{
+"no": 284,
+"id": "RN-253",
+"address": "Coahuila 49",
+"title": "Coahuila 49",
+"old_tenant": "Alofah Tiki Bar",
+"current": "Tiki and mezcal cocktail bar themed on 1930s bars.",
+"current_source": "draft 3"
+},
+{
+"no": 285,
+"id": "RN-250",
+"address": "Coahuila 9",
+"title": "Coahuila 9",
+"old_tenant": "",
+"current": "",
+"current_source": ""
+}
+]

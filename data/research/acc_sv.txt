@@ -1,0 +1,46 @@
+RN-287|Broka~1579~Restaurant;Si Mon Vinos Mexicanos~533~Restaurant
+RN-227|College of Communication~267~Private university
+RN-228|-
+RN-289|Cancino~4855~Pizza restaurant
+RN-226|-
+RN-229|Casa Rafael Galvan~451~Cultural centre
+RN-230|-
+RN-231|-
+RN-288|-
+RN-285|Páramo~3870~Mexican restaurant;El Parnita~2953~Mexican restaurant;Expendio de Maiz~2014~Restaurant
+RN-233|Monte Sinai~48~Synagogue
+RN-234|-
+RN-235|Universidad de Londres plantel Luis Cabrera~807~Private university;University of London campus Querétaro~311~Private university
+RN-236|FOLKIA MX, VINTAGE STORE~19~Clothing Shop
+RN-268|-
+RN-237|-
+RN-238|-
+RN-239|University of London Campus Medellin~35~University
+RN-265|-
+RN-240|Universidad de Londres plantel Luis Cabrera~807~Private university;Universidad de Londres plantel San Luis Potosi~475~University
+RN-286|-
+RN-269|Terreno Baldío Arte~168~Art gallery
+RN-241|Universidad de Londres plantel Luis Cabrera~807~Private university;University of London~164~University
+RN-242|-
+RN-243|-
+RN-244|666 (seis seis seis)~10~Bar;Astro.cito Dulces a Granel~5~Sweet shop
+RN-245|-
+RN-281|Santa Casa by Tasman~93~Hotel
+RN-282|Bacanora Terraza~1316~Mexican restaurant;La Taque Roma Norte~952~Gastropub;Ardente Pizzería Napoletana Roma~111~Pizza restaurant
+RN-263|Ignacia Guest House~116~Hotel
+RN-246|-
+RN-247|Sastrería Santana~55~Men's Clothes Shop
+RN-248|Banzo~15~Clothing Shop
+RN-270|-
+RN-249|MAQUE CAFÉ~966~Coffee shop
+RN-253|-
+RN-250|-
+RN-119|-
+RN-284|La Valise mx City, an SLH Hotel~304~Hotel;La Valise Café~46~Espresso bar
+RN-132|Lotti~187~Restaurant;El Cortes~76~Hotel
+RN-136|-
+RN-156|-
+RN-162|-
+RN-163|-
+RN-167|-
+RN-183|-

@@ -1,0 +1,1 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://'+process.cwd()+'/out/book_small.html',{waitUntil:'networkidle'});await p.pdf({path:'out/body.pdf',format:'Letter',printBackground:true,preferCSSPageSize:true});await b.close()})()
